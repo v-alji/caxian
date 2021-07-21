@@ -1,6 +1,6 @@
 # Git diff
 
-## Git view difference between HEAD and Working Directory
+## Git view difference between HEAD and Working Directoryd
 
 ```bash
 git diff HEAD
